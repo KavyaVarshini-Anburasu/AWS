@@ -1,4 +1,4 @@
-# Building Security in the Cloud with AWS Write-Up
+# Building Security in the Cloud with AWS 
 
 ## *“Security in the cloud isn’t magic — it’s methodical.”*
 
