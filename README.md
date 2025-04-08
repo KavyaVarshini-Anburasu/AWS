@@ -49,7 +49,7 @@ Objective: Establish audit, alert, and remediation pipelines
 
 ---
 
-## 🔄 Challenges Faced
+## Challenges Faced
 
 |  Problem |  Fix |
 |-----------|--------|
